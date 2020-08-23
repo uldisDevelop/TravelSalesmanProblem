@@ -1,6 +1,6 @@
 # Traveling salesman problem solver
 
-- vizualizes genetic algorithm to solve traveling salesman problem
+- visualizes genetic algorithm to solve traveling salesman problem
 
 ## To start the app
 
